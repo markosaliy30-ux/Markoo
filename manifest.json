@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Blocky 3D Tornado New Tab",
+  "version": "2.0",
+  "description": "3D blocky procedural tornado vortex with orbiting search bar.",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  }
+}
